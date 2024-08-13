@@ -88,7 +88,7 @@ nav:
     # - <span style="color:darkcyan; font-style:bold">Tree drawing</span>:
     - Tree Drawing:
       - draw basics: drawing-basics.ipynb
-      - draw options: ...
+      - draw options: draw-options.ipynb
       - coordinates and axes: drawing-coordinates.ipynb
       - composite plots: ...
       - tree styles: tree-styles.ipynb
